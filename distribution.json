@@ -114,7 +114,7 @@
           }
         },
         {
-          "id": "funm.mods:funm:0.7.1",
+          "id": "funm.mods:funm:0.8.0",
           "name": "funM",
           "type": "FabricMod",
           "required": {
@@ -122,9 +122,9 @@
             "def": true
           },
           "artifact": {
-            "size": 1926862,
-            "MD5": "f7c45aa5a34fb13265b17a93ce7ee306",
-            "url": "https://cad0921.github.io/funM/mods/funm-0.7.1.jar"
+            "size": 2718757,
+            "MD5": "91befb04480c21eb29a702b5859182d3",
+            "url": "https://cad0921.github.io/funM/mods/funm-0.8.0.jar"
           }
         },
         {
