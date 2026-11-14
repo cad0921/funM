@@ -114,7 +114,7 @@
           }
         },
         {
-          "id": "funm.mods:funm:0.7.0",
+          "id": "funm.mods:funm:0.7.1",
           "name": "funM",
           "type": "FabricMod",
           "required": {
@@ -122,9 +122,9 @@
             "def": true
           },
           "artifact": {
-            "size": 1880202,
-            "MD5": "ad1ed4b1b16d03271ce2ebfe42b8ec26",
-            "url": "https://cad0921.github.io/funM/mods/funm-0.7.0.jar"
+            "size": 1926862,
+            "MD5": "f7c45aa5a34fb13265b17a93ce7ee306",
+            "url": "https://cad0921.github.io/funM/mods/funm-0.7.1.jar"
           }
         },
         {
@@ -207,8 +207,8 @@
             "def": true
           },
           "artifact": {
-            "size": 212,
-            "MD5": "0eb67c1034968fe43a1ed76aba61f14c",
+            "size": 286,
+            "MD5": "6642edac1865e4de55e8070b0679ff81",
             "path": "shaderpacks/MakeUp-UltraFast-9.6-LITE.zip.txt",
             "url": "https://cad0921.github.io/funM/game/shaderpacks/MakeUp-UltraFast-9.6-LITE.zip.txt"
           }
@@ -237,8 +237,8 @@
             "def": true
           },
           "artifact": {
-            "size": 85,
-            "MD5": "8d588a51d30f56961bdc79f36bf09f2e",
+            "size": 151,
+            "MD5": "b866cff61dc659cebe38be29fe411a38",
             "path": "shaderpacks/MakeUp-UltraFast-9.6.zip.txt",
             "url": "https://cad0921.github.io/funM/game/shaderpacks/MakeUp-UltraFast-9.6.zip.txt"
           }
