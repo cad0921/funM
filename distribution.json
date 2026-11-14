@@ -1,0 +1,249 @@
+{
+  "version": "1.0.0",
+  "rss": "",
+  "servers": [
+    {
+      "id": "funM-26.3",
+      "name": "funM",
+      "description": "霓虹小遊戲伺服器",
+      "icon": "",
+      "version": "0.1.0",
+      "address": "123.241.207.57:25565",
+      "minecraftVersion": "26.3",
+      "mainServer": true,
+      "autoconnect": true,
+      "javaOptions": {
+        "supported": ">=25",
+        "suggestedMajor": 25
+      },
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.20.1",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1988880,
+            "MD5": "2e3dc8eebfde75fc8078c931090cd46f",
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.20.1/fabric-loader-0.20.1.jar"
+          },
+          "subModules": [
+            {
+              "id": "org.ow2.asm:asm:9.10.1",
+              "name": "asm",
+              "type": "Library",
+              "artifact": {
+                "size": 126151,
+                "MD5": "9cb72080438acf27f2607002e1444a7b",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.10.1",
+              "name": "asm-analysis",
+              "type": "Library",
+              "artifact": {
+                "size": 35140,
+                "MD5": "6dd9011ec87f65e4b2e14e938c4118e4",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.10.1",
+              "name": "asm-commons",
+              "type": "Library",
+              "artifact": {
+                "size": 74840,
+                "MD5": "8eee0b1bdd046baf472eb83dd5e6bb44",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.10.1",
+              "name": "asm-tree",
+              "type": "Library",
+              "artifact": {
+                "size": 51958,
+                "MD5": "62541e1dc62331408ef31317555bf4fa",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.10.1",
+              "name": "asm-util",
+              "type": "Library",
+              "artifact": {
+                "size": 95628,
+                "MD5": "d0892ecb209867805e7d2418e5dc6c42",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.17.5+mixin.0.8.7",
+              "name": "sponge-mixin",
+              "type": "Library",
+              "artifact": {
+                "size": 1551593,
+                "MD5": "5fd69fb11801c52d88a854ffe05eb839",
+                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.17.5+mixin.0.8.7/sponge-mixin-0.17.5+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "fabric-loader-0.20.1-26.3",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 3263,
+                "MD5": "332544437b4cf12d6422353031be10a8",
+                "url": "https://cad0921.github.io/funM/versions/fabric-loader-0.20.1-26.3.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "funm.mods:fabric-api:0.165.2-26.3",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1779306,
+            "MD5": "fcc8bd0a73978976ecf6a263525f2e54",
+            "url": "https://cad0921.github.io/funM/mods/fabric-api-0.165.2-26.3.jar"
+          }
+        },
+        {
+          "id": "funm.mods:funm:0.4.8",
+          "name": "funM",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1273745,
+            "MD5": "e8268cebb4cd9d5d006efd333b253371",
+            "url": "https://cad0921.github.io/funM/mods/funm-0.4.8.jar"
+          }
+        },
+        {
+          "id": "funm.mods:geckolib:5.5.7",
+          "name": "GeckoLib 5",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1191230,
+            "MD5": "54885c7a0bed961dc9f2219fd2790370",
+            "url": "https://cad0921.github.io/funM/mods/geckolib-5.5.7.jar"
+          }
+        },
+        {
+          "id": "funm.mods:iris:1.11.7-mc26.3",
+          "name": "Iris",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2850938,
+            "MD5": "6e390346ffb4f04e670d7f0ffc04887f",
+            "url": "https://cad0921.github.io/funM/mods/iris-1.11.7-mc26.3.jar"
+          }
+        },
+        {
+          "id": "funm.mods:sodium:0.9.2-mc26.3",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1908068,
+            "MD5": "cdb88a33f405f700021f24274e2ab852",
+            "url": "https://cad0921.github.io/funM/mods/sodium-0.9.2-mc26.3.jar"
+          }
+        },
+        {
+          "id": "funm.mods:voicechat:2.6.27-26.3",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 5611159,
+            "MD5": "b8799a62cbae442ab26995145c7c2c20",
+            "url": "https://cad0921.github.io/funM/mods/voicechat-2.6.27-26.3.jar"
+          }
+        },
+        {
+          "id": "funm.files:shaderpacks_MakeUp_UltraFast_9_6_LITE_zip:1",
+          "name": "MakeUp-UltraFast-9.6-LITE.zip",
+          "type": "File",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 406830,
+            "MD5": "af9d9438ef310e24e4075a184b1e0f03",
+            "path": "shaderpacks/MakeUp-UltraFast-9.6-LITE.zip",
+            "url": "https://cad0921.github.io/funM/game/shaderpacks/MakeUp-UltraFast-9.6-LITE.zip"
+          }
+        },
+        {
+          "id": "funm.files:shaderpacks_MakeUp_UltraFast_9_6_LITE_zip_txt:1",
+          "name": "MakeUp-UltraFast-9.6-LITE.zip.txt",
+          "type": "File",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 212,
+            "MD5": "0eb67c1034968fe43a1ed76aba61f14c",
+            "path": "shaderpacks/MakeUp-UltraFast-9.6-LITE.zip.txt",
+            "url": "https://cad0921.github.io/funM/game/shaderpacks/MakeUp-UltraFast-9.6-LITE.zip.txt"
+          }
+        },
+        {
+          "id": "funm.files:shaderpacks_MakeUp_UltraFast_9_6_zip:1",
+          "name": "MakeUp-UltraFast-9.6.zip",
+          "type": "File",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 406830,
+            "MD5": "af9d9438ef310e24e4075a184b1e0f03",
+            "path": "shaderpacks/MakeUp-UltraFast-9.6.zip",
+            "url": "https://cad0921.github.io/funM/game/shaderpacks/MakeUp-UltraFast-9.6.zip"
+          }
+        },
+        {
+          "id": "funm.files:shaderpacks_MakeUp_UltraFast_9_6_zip_txt:1",
+          "name": "MakeUp-UltraFast-9.6.zip.txt",
+          "type": "File",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 85,
+            "MD5": "8d588a51d30f56961bdc79f36bf09f2e",
+            "path": "shaderpacks/MakeUp-UltraFast-9.6.zip.txt",
+            "url": "https://cad0921.github.io/funM/game/shaderpacks/MakeUp-UltraFast-9.6.zip.txt"
+          }
+        }
+      ]
+    }
+  ]
+}
