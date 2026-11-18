@@ -1,13 +1,15 @@
 {
   "id": "fabric-loader-0.20.1-26.3",
   "inheritsFrom": "26.3",
-  "releaseTime": "2026-11-17T01:31:42+0000",
-  "time": "2026-11-17T01:31:42+0000",
+  "releaseTime": "2026-11-18T01:31:43+0000",
+  "time": "2026-11-18T01:31:43+0000",
   "type": "release",
   "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
   "arguments": {
     "game": [],
     "jvm": [
+      "-XX:+UnlockDiagnosticVMOptions",
+      "-XX:-UseBASE64Intrinsics",
       "-DFabricMcEmu= net.minecraft.client.main.Main "
     ]
   },
