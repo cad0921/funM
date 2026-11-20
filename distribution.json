@@ -100,6 +100,20 @@
           ]
         },
         {
+          "id": "funm.mods:player_animation_library:1.2.9-mc.26.3",
+          "name": "Player Animation Library",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 411384,
+            "MD5": "131306e03b484d6d994ee0f8ad9056ce",
+            "url": "https://cad0921.github.io/funM/mods/player_animation_library-1.2.9-mc.26.3.jar"
+          }
+        },
+        {
           "id": "funm.mods:fabric-api:0.165.2-26.3",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -114,7 +128,7 @@
           }
         },
         {
-          "id": "funm.mods:funm:1.1.22",
+          "id": "funm.mods:funm:1.1.23",
           "name": "funM",
           "type": "FabricMod",
           "required": {
@@ -122,9 +136,9 @@
             "def": true
           },
           "artifact": {
-            "size": 5577866,
-            "MD5": "68ac7a997432eaffb73bb55a5f4722b8",
-            "url": "https://cad0921.github.io/funM/mods/funm-1.1.22.jar"
+            "size": 5582695,
+            "MD5": "321fc5918efe15bae5379a2c55b75a26",
+            "url": "https://cad0921.github.io/funM/mods/funm-1.1.23.jar"
           }
         },
         {
