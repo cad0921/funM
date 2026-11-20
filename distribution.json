@@ -93,7 +93,7 @@
               "type": "VersionManifest",
               "artifact": {
                 "size": 3337,
-                "MD5": "b6e4ffecb341fbc27541ef3a2bdcecc9",
+                "MD5": "c61e00a7943784313753904eea9e6a9b",
                 "url": "https://cad0921.github.io/funM/versions/fabric-loader-0.20.1-26.3.json"
               }
             }
@@ -114,7 +114,7 @@
           }
         },
         {
-          "id": "funm.mods:funm:1.1.15",
+          "id": "funm.mods:funm:1.1.16",
           "name": "funM",
           "type": "FabricMod",
           "required": {
@@ -122,9 +122,9 @@
             "def": true
           },
           "artifact": {
-            "size": 5493245,
-            "MD5": "2aca723ccc42fc1d5aef81014306b091",
-            "url": "https://cad0921.github.io/funM/mods/funm-1.1.15.jar"
+            "size": 5506444,
+            "MD5": "5d8efe8029a6801d6d9936f64a4daca1",
+            "url": "https://cad0921.github.io/funM/mods/funm-1.1.16.jar"
           }
         },
         {
