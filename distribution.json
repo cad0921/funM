@@ -128,7 +128,7 @@
           }
         },
         {
-          "id": "funm.mods:funm:1.1.45",
+          "id": "funm.mods:funm:1.1.46",
           "name": "funM",
           "type": "FabricMod",
           "required": {
@@ -136,9 +136,9 @@
             "def": true
           },
           "artifact": {
-            "size": 5935486,
-            "MD5": "8c8921cca6b35a0c0aa751d75b6a0b18",
-            "url": "https://cad0921.github.io/funM/mods/funm-1.1.45.jar"
+            "size": 5948362,
+            "MD5": "f85d423798dc0e5424133acf6167ebdc",
+            "url": "https://cad0921.github.io/funM/mods/funm-1.1.46.jar"
           }
         },
         {
@@ -195,6 +195,81 @@
             "size": 5611159,
             "MD5": "b8799a62cbae442ab26995145c7c2c20",
             "url": "https://cad0921.github.io/funM/mods/voicechat-2.6.27-26.3.jar"
+          }
+        },
+        {
+          "id": "funm.files:shaderpacks_funm_bowl_zip:1",
+          "name": "funm-bowl.zip",
+          "type": "File",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 491281,
+            "MD5": "1e23c27a776924d3b44c384ab3136b59",
+            "path": "shaderpacks/funm-bowl.zip",
+            "url": "https://cad0921.github.io/funM/game/shaderpacks/funm-bowl.zip"
+          }
+        },
+        {
+          "id": "funm.files:shaderpacks_funm_golf_zip:1",
+          "name": "funm-golf.zip",
+          "type": "File",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 491269,
+            "MD5": "5e838d6acef0f70ace9c079deee62f57",
+            "path": "shaderpacks/funm-golf.zip",
+            "url": "https://cad0921.github.io/funM/game/shaderpacks/funm-golf.zip"
+          }
+        },
+        {
+          "id": "funm.files:shaderpacks_funm_haul_zip:1",
+          "name": "funm-haul.zip",
+          "type": "File",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 491348,
+            "MD5": "fb78ac9a83e25a193fdd044b2bc7aef0",
+            "path": "shaderpacks/funm-haul.zip",
+            "url": "https://cad0921.github.io/funM/game/shaderpacks/funm-haul.zip"
+          }
+        },
+        {
+          "id": "funm.files:shaderpacks_funm_lobby_zip:1",
+          "name": "funm-lobby.zip",
+          "type": "File",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 491245,
+            "MD5": "d66aaa2e9f0ab7111cf1964e9f493763",
+            "path": "shaderpacks/funm-lobby.zip",
+            "url": "https://cad0921.github.io/funM/game/shaderpacks/funm-lobby.zip"
+          }
+        },
+        {
+          "id": "funm.files:shaderpacks_funm_peak_zip:1",
+          "name": "funm-peak.zip",
+          "type": "File",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 491266,
+            "MD5": "bac25469ff775931b67910531c6900a9",
+            "path": "shaderpacks/funm-peak.zip",
+            "url": "https://cad0921.github.io/funM/game/shaderpacks/funm-peak.zip"
           }
         },
         {
