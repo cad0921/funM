@@ -128,7 +128,7 @@
           }
         },
         {
-          "id": "funm.mods:funm:1.1.46",
+          "id": "funm.mods:funm:1.1.47",
           "name": "funM",
           "type": "FabricMod",
           "required": {
@@ -136,9 +136,9 @@
             "def": true
           },
           "artifact": {
-            "size": 5948362,
-            "MD5": "f85d423798dc0e5424133acf6167ebdc",
-            "url": "https://cad0921.github.io/funM/mods/funm-1.1.46.jar"
+            "size": 5949414,
+            "MD5": "dfced5599c8b0d3a51150c8eb9599341",
+            "url": "https://cad0921.github.io/funM/mods/funm-1.1.47.jar"
           }
         },
         {
@@ -206,8 +206,8 @@
             "def": true
           },
           "artifact": {
-            "size": 491281,
-            "MD5": "1e23c27a776924d3b44c384ab3136b59",
+            "size": 491286,
+            "MD5": "2c973d92ed229ac4377142797fab8c0e",
             "path": "shaderpacks/funm-bowl.zip",
             "url": "https://cad0921.github.io/funM/game/shaderpacks/funm-bowl.zip"
           }
@@ -221,8 +221,8 @@
             "def": true
           },
           "artifact": {
-            "size": 491269,
-            "MD5": "5e838d6acef0f70ace9c079deee62f57",
+            "size": 491272,
+            "MD5": "8da86397a445706555cd8847c844045d",
             "path": "shaderpacks/funm-golf.zip",
             "url": "https://cad0921.github.io/funM/game/shaderpacks/funm-golf.zip"
           }
@@ -236,8 +236,8 @@
             "def": true
           },
           "artifact": {
-            "size": 491348,
-            "MD5": "fb78ac9a83e25a193fdd044b2bc7aef0",
+            "size": 491355,
+            "MD5": "1209bb45abc52958095ef507f68b9302",
             "path": "shaderpacks/funm-haul.zip",
             "url": "https://cad0921.github.io/funM/game/shaderpacks/funm-haul.zip"
           }
@@ -251,8 +251,8 @@
             "def": true
           },
           "artifact": {
-            "size": 491245,
-            "MD5": "d66aaa2e9f0ab7111cf1964e9f493763",
+            "size": 491242,
+            "MD5": "243f1d6cb09cec8706d08f5d5680c6d4",
             "path": "shaderpacks/funm-lobby.zip",
             "url": "https://cad0921.github.io/funM/game/shaderpacks/funm-lobby.zip"
           }
@@ -266,8 +266,8 @@
             "def": true
           },
           "artifact": {
-            "size": 491266,
-            "MD5": "bac25469ff775931b67910531c6900a9",
+            "size": 491268,
+            "MD5": "d8fffd618c0fa7f11711b21006a29c26",
             "path": "shaderpacks/funm-peak.zip",
             "url": "https://cad0921.github.io/funM/game/shaderpacks/funm-peak.zip"
           }
