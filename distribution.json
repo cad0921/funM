@@ -170,20 +170,6 @@
           }
         },
         {
-          "id": "funm.mods:holdmyitems:5.1",
-          "name": "Hold My Items",
-          "type": "FabricMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 990470,
-            "MD5": "0ec0825e680f560d21b29478d3d103ec",
-            "url": "https://cad0921.github.io/funM/mods/holdmyitems-5.1.jar"
-          }
-        },
-        {
           "id": "funm.mods:iris:1.11.7-mc26.3",
           "name": "Iris",
           "type": "FabricMod",
