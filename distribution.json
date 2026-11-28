@@ -114,6 +114,20 @@
           }
         },
         {
+          "id": "funm.mods:cloth-config:26.3.161",
+          "name": "Cloth Config v26.3",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1135028,
+            "MD5": "1dfa0aa1f52b410c86675b6eaefda525",
+            "url": "https://cad0921.github.io/funM/mods/cloth-config-26.3.161.jar"
+          }
+        },
+        {
           "id": "funm.mods:fabric-api:0.165.2-26.3",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -156,6 +170,20 @@
           }
         },
         {
+          "id": "funm.mods:holdmyitems:5.1",
+          "name": "Hold My Items",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 990470,
+            "MD5": "0ec0825e680f560d21b29478d3d103ec",
+            "url": "https://cad0921.github.io/funM/mods/holdmyitems-5.1.jar"
+          }
+        },
+        {
           "id": "funm.mods:iris:1.11.7-mc26.3",
           "name": "Iris",
           "type": "FabricMod",
@@ -167,6 +195,34 @@
             "size": 2850938,
             "MD5": "6e390346ffb4f04e670d7f0ffc04887f",
             "url": "https://cad0921.github.io/funM/mods/iris-1.11.7-mc26.3.jar"
+          }
+        },
+        {
+          "id": "funm.mods:modmenu:21.0.1",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 862761,
+            "MD5": "144978805a3c9d97652d3e20a3671014",
+            "url": "https://cad0921.github.io/funM/mods/modmenu-21.0.1.jar"
+          }
+        },
+        {
+          "id": "funm.mods:retromod:1.4.0-snapshot.5",
+          "name": "Retromod",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 11816394,
+            "MD5": "fa35798414abe829ddc301aa6780f8c7",
+            "url": "https://cad0921.github.io/funM/mods/retromod-1.4.0-snapshot.5.jar"
           }
         },
         {
