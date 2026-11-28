@@ -100,6 +100,34 @@
           ]
         },
         {
+          "id": "funm.mods:creativecore:2.14.25",
+          "name": "CreativeCore",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1422746,
+            "MD5": "7d4ed4b6fb4025f7bdba3574e9bcbf2a",
+            "url": "https://cad0921.github.io/funM/mods/creativecore-2.14.25.jar"
+          }
+        },
+        {
+          "id": "funm.mods:itemphysiclite:1.6.13",
+          "name": "ItemPhysicLite",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 28095,
+            "MD5": "1722dd35179133221db5787cc51bba76",
+            "url": "https://cad0921.github.io/funM/mods/itemphysiclite-1.6.13.jar"
+          }
+        },
+        {
           "id": "funm.mods:player_animation_library:1.2.9-mc.26.3",
           "name": "Player Animation Library",
           "type": "FabricMod",
